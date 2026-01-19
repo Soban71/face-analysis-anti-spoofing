@@ -1,0 +1,17 @@
+# Ignore datasets
+datasets/
+*.zip
+
+# Ignore model weights (optional but recommended)
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
